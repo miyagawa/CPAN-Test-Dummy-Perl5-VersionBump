@@ -47,6 +47,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-VersionBump/issues"
+      },
+      "homepage" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-VersionBump",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-VersionBump.git",
+         "web" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-VersionBump"
+      }
+   },
    "version" : "0.01"
 }
 
